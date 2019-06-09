@@ -1,0 +1,14 @@
+# header information:
+Hsolition_of_2.2|9.07
+
+# Views:
+Vlayout|lay
+
+# Technologies:
+Tmocmos|ScaleFORmocmos()D50.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
+
+# Cell layout_solution;1{lay}
+Clayout_solution;1{lay}||mocmos|1560086190442|1560086298054|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NMetal-1-N-Well-Con|well@0||-28|3|95|5||
+X
